@@ -11,3 +11,4 @@ In this Module we are having some features related to Mall Automation System.
 * Push Buttons
 * Flame Sensor
 * Buzzer
+* DHT11 Sensor
