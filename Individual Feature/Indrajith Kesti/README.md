@@ -14,7 +14,9 @@ They can be used to guide people toward main exits or special exhibits and may b
  A non-functional escalator can function as a normal staircase, whereas many other methods of transport become useless when they break down or lose power.
  
  
-## 2.0  Escalator components
+## Block 
+ 
+##  Escalator components
 
 
 ### Landing platforms
@@ -101,6 +103,22 @@ They can be used to guide people toward main exits or special exhibits and may b
 	- Sensor and Motor may fail 
 	
 		
+## HighLevel Requirements :
+
+| Test ID |Description |
+| ----    | --------   |
+| H01   | Object Presence or Absent   | 
+| H02   | Motor working  | 
+
+
+## Low Level Requirements :
+
+| Test ID |Description |
+| ----    | --------   |
+| L01   | Sensing object presence   | 
+| L02   | Motor operation based on ir output    | 
+
+
 
 # Advantages :
 	- Automatic
