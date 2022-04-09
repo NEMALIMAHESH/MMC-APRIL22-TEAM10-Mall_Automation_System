@@ -137,6 +137,7 @@ They can be used to guide people toward main exits or special exhibits and may b
 	- can be more practical than lifts. It is also possible for people to walk up or down escalators, if they are in a hurry, or if they break down.
 
 
+
 	
 # 10.0 Applications :
 	- Shopping centres
@@ -146,3 +147,18 @@ They can be used to guide people toward main exits or special exhibits and may b
 	- Hotels
  	- Arenas
 	- Public buildings, and so on.
+	
+	
+	
+# 11.0 Test plan output
+
+
+-----------------------------------------------------------------------------------------------
+| Test ID  |    Description                   | Expected output | Actual output | Type of test |
+|-------|--------------------------|------------|-----------|-------|
+|  H_01    | object presence  |   IR sensing led blink    |        |   Technical  |
+|          | if present  |     Run Motor   |       |   Technical  |
+|  H_02    | if object absent |      No IR sense   |       |   Technical  |
+|          | if absent  |     Run Motor   |       |   Technical  |
+
+
