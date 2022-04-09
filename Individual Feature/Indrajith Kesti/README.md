@@ -14,16 +14,16 @@ They can be used to guide people toward main exits or special exhibits and may b
  A non-functional escalator can function as a normal staircase, whereas many other methods of transport become useless when they break down or lose power.
  
  
-## Block Diagram :-
+## 2.0  Block Diagram :-
  
   ![Blockdiagram drawio](https://user-images.githubusercontent.com/98821876/162563344-467b7131-fd9f-4724-a4d0-0f5e2ab0635d.png)
 
 
-## Flow Chart :- 
+## 3.0  Flow Chart :- 
 
 ![Flowchart](https://user-images.githubusercontent.com/98821876/162563367-33a24a80-7f8b-4e6c-8124-bfa64a1c1f51.png)
 
-##  Escalator components
+## 4.0  Escalator components
 
 
 ### Landing platforms
@@ -66,7 +66,7 @@ They can be used to guide people toward main exits or special exhibits and may b
     so that it moves at a similar speed to the steps.
 
 
-# 5 W and 1 H
+# 5.0  5 W and 1 H
 
 ## WHY - 
     - It carries people between floors of a building or structure.
@@ -92,7 +92,7 @@ They can be used to guide people toward main exits or special exhibits and may b
     - By sesnsing the object present and running the DC motor
 
 
-# SWOT Analysis : 
+# 6.0 SWOT Analysis : 
 
 ## STRENGTH -
 	 - Automatic 
@@ -110,7 +110,7 @@ They can be used to guide people toward main exits or special exhibits and may b
 	- Sensor and Motor may fail 
 	
 		
-## HighLevel Requirements :
+## 7.0 HighLevel Requirements :
 
 | Test ID |Description |
 | ----    | --------   |
@@ -118,7 +118,7 @@ They can be used to guide people toward main exits or special exhibits and may b
 | H02   | Motor working  | 
 
 
-## Low Level Requirements :
+## 8.0 Low Level Requirements :
 
 | Test ID |Description |
 | ----    | --------   |
@@ -127,7 +127,7 @@ They can be used to guide people toward main exits or special exhibits and may b
 
 
 
-# Advantages :
+# 9.0 Advantages :
 	- Automatic
 	- Power save
 	- Easy Living
@@ -138,7 +138,7 @@ They can be used to guide people toward main exits or special exhibits and may b
 
 
 	
-# Applications :
+# 10.0 Applications :
 	- Shopping centres
 	- Airports
 	- Transit systems
