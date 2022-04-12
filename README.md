@@ -1,14 +1,10 @@
 # MMC-APRIL22-TEAM10-Mall_Automation_System
 In this Module we are having some features related to Mall Automation System.
-## Components Required
+## Components Used
 * STM32F407G
 * Bread Board
-* IR SENSOR
-* Servo Motor
-* stepper Motor
-* Photoresistor
-* Ultrasonic Sensor
-* Push Buttons
-* Flame Sensor
-* Buzzer
+* LCD Display
 * DHT11 Sensor
+* leds
+* ldr sensor
+* potentiometer
