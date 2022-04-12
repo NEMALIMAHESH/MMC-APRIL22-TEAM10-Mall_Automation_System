@@ -14,6 +14,11 @@ They have no waiting interval (except during very heavy traffic).
 They can be used to guide people toward main exits or special exhibits and may be weatherproofed for outdoor use.
  A non-functional escalator can function as a normal staircase, whereas many other methods of transport become useless when they break down or lose power.
  
+ ## Components used :- 
+ 	- STM32f407g disc1 board
+	- IR sensor
+	- DC motor
+	
  
 ## 2)  Block Diagram :-
  
@@ -24,7 +29,7 @@ They can be used to guide people toward main exits or special exhibits and may b
 
 ![Flowchart](https://user-images.githubusercontent.com/98821876/162563367-33a24a80-7f8b-4e6c-8124-bfa64a1c1f51.png)
 
-## 4)  Escalator components
+## 4)  Actual Escalator components
 
 
 ### Landing platforms
