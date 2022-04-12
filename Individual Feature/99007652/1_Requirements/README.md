@@ -12,3 +12,8 @@ They have no waiting interval (except during very heavy traffic).
 They can be used to guide people toward main exits or special exhibits and may be weatherproofed for outdoor use.
  A non-functional escalator can function as a normal staircase, whereas many other methods of transport become useless when they break down or lose power.
  
+ ## Components used :- 
+ 	- STM32f407g disc1 board
+	- IR sensor
+	- DC motor
+	
