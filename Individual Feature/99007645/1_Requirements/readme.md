@@ -17,15 +17,15 @@ In LCD 16×2, the term LCD stands for Liquid Crystal Display that uses a plane p
 * Jumper Wires
 * Potentiometer
 # SWOT ANALYSIS:
-# Strength:
+## Strength:
   * Easily Applicable.
   * Output can be modified.  
-* Weakness:
+## Weakness:
   * Failure of display segments.
   * In case of low power.
-* Opportunities:
+## Opportunities:
   * Increase in growth day by day
-* Threats:
+## Threats:
   * Failure of System.
 # 5W'S and 1H:
 ## WHY:
