@@ -6,6 +6,8 @@
 * Breadboard
 * Connecting Wires
 * Resistors
+* LEDS
+* Motor
 ## SWOT ANALYSIS:
 * Strength:
   * It will automatically detect the temperature.
