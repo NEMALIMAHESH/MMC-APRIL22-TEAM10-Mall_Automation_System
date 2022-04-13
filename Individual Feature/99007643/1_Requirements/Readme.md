@@ -1,5 +1,5 @@
 # Introduction
-* It measures the temperature and humidity of air. If temperature is high it will glow red led. If temperature is normal it will green led. if temperature is low it will glow blue led.
+* It measures the temperature and humidity of air. If temperature is high it will glow red led. If temperature is normal it will green led. if temperature is low it will glow blue led. After Glowing leds the motor will rotate according to temperature conditions.If temperature is normal the motor will rotate very slow.If temperature is high the motor will rotate high.If temperature is low the motor rotation will stop.
 ## Components used
 * Stm32f407
 * Temperature and humidity sensor.
