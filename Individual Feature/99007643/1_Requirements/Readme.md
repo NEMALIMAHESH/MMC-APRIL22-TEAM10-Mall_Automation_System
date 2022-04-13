@@ -11,6 +11,7 @@
 ## SWOT ANALYSIS:
 * Strength:
   * It will automatically detect the temperature.
+  * Easily Applicable.
 * Weakness:
   * Failure of Sensors
   * In case of low power
