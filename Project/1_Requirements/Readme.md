@@ -50,7 +50,8 @@
 |---|---|---|
 |HLR 01| Temperature Sensor|Done|
 |HLR 02|LEDS Glowing|Done|
-|HLR 03Motor Working|Done|
+|HLR 03|Motor Working|Done|
+|HLR 04|LCD Display|Done|
 # LOW LEVEL REQUIREMENTS
 |TEST ID|DESCRIPTION|HLR ID|STATUS|
 |---|---|----|----|
@@ -58,3 +59,4 @@
 |LLR 02|Green Led|HLR 01 & HLR 02|Done|
 |LLR 03|Red Led|HLR 01 & HLR 02|Done|
 |LLR 04|Motor |HLR 01 & HLR 03|Done|
+|LLR 05|LCD Display|HLR 04|Done|
