@@ -7,7 +7,8 @@
 * Connecting Wires
 * Resistors
 * LEDS
-* Motor
+* Stepper Motor
+* ULN2003 Driver
 ## SWOT ANALYSIS:
 * Strength:
   * It will automatically detect the temperature.
