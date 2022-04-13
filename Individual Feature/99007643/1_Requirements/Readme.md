@@ -33,6 +33,7 @@
 * It will work automatically.
 # HIGH LEVEL REQUIREMENTS:
 |HLR|DESCRIPTION|STATUS|
+|---|---|---|
 |HLR 01| Temperature Sensor|Done|
 |HLR 02|LEDS Glowing|Done|
 |HLR 03Motor Working|Done|
