@@ -43,5 +43,3 @@
 |LLR 02|Green Led|HLR 01 & HLR 02|Done|
 |LLR 03|Red Led|HLR 01 & HLR 02|Done|
 |LLR 04|Motor |HLR 01 & HLR 03|Done|
-|---|----|----|
-|HLR 01|Sensor|Done|
