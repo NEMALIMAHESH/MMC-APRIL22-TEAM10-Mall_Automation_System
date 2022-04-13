@@ -1,5 +1,15 @@
 # Introduction
 * It measures the temperature and humidity of air. If temperature is high it will glow red led. If temperature is normal it will green led. if temperature is low it will glow blue led. After Glowing leds the motor will rotate according to temperature conditions.If temperature is normal the motor will rotate very slow.If temperature is high the motor will rotate high.If temperature is low the motor rotation will stop.
+* In LCD 16×2, the term LCD stands for Liquid Crystal Display that uses a plane panel display technology, used in screens of computer monitors etc.An electronic device that is used to display data and the message is known as LCD 16×2. As the name suggests, it includes 16 Columns & 2 Rows so it can display 32 characters (16×2=32) in total & every character will be made with 5×8 (40) Pixel Dots. So the total pixels within this LCD can be calculated as 32 x 40 otherwise 1280 pixels.
+# Specifications:
+* The operating voltage of this display ranges from 4.7V to 5.3V
+* The display bezel is 72 x 25mm
+* The operating current is 1mA without a backlight
+* HD47780 controller
+* LED color for backlight is green or blue
+* Number of columns – 16
+* Number of rows – 2
+* It works in 4-bit and 8-bit modes
 ## Components used
 * Stm32f407
 * Temperature and humidity sensor.
