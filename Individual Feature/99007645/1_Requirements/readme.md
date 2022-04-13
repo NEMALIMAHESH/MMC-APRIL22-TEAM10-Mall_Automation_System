@@ -10,7 +10,7 @@ In LCD 16×2, the term LCD stands for Liquid Crystal Display that uses a plane p
 * Number of columns – 16
 * Number of rows – 2
 * It works in 4-bit and 8-bit modes
-## Components used
+# Components Used
 * Stm32F407 Discovery Board
 * LCD 16x2 Display
 * Breadboard
