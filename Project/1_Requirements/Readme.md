@@ -17,7 +17,8 @@
 * Connecting Wires
 * Resistors
 * LEDS
-* Motor
+* Stepper Motor
+* ULN2003 driver
 * Lcd display
 * Potentiometer
 ## SWOT ANALYSIS:
