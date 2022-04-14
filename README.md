@@ -9,3 +9,11 @@ In this Module we are using some features related to Mall Automation System.
 * potentiometer
 * Stepper Motor
 * ULN2003driver
+# Features
+|Feature|Name|
+|---|---|
+|Automatic Air Conditioner|Mahesh|
+|LCD Display|Dinesh|
+||Manoj|
+||Indrajith|
+||Arun Kumar|
