@@ -15,5 +15,5 @@ In this Module we are using some features related to Mall Automation System.
 |Automatic Air Conditioner|Mahesh|
 |LCD Display|Dinesh|
 |Auomatic lighting system|Manoj|
-||Indrajith|
+|Escalator|Indrajith|
 |LCD Display|Arun Kumar| 
