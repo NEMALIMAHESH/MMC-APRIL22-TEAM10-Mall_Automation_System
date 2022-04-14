@@ -16,4 +16,4 @@ In this Module we are using some features related to Mall Automation System.
 |LCD Display|Dinesh|
 |Auomatic lighting system|Manoj|
 ||Indrajith|
-||Arun Kumar|
+|LCD Display|Arun Kumar| 
