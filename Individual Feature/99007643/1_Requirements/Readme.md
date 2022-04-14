@@ -1,14 +1,18 @@
 # Introduction
-* It measures the temperature and humidity of air. If temperature is high it will glow red led. If temperature is normal it will green led. if temperature is low it will glow blue led.
+* It measures the temperature and humidity of air. If temperature is high it will glow red led. If temperature is normal it will green led. if temperature is low it will glow blue led. After Glowing leds the motor will rotate according to temperature conditions.If temperature is normal the motor will rotate very slow.If temperature is high the motor will rotate high.If temperature is low the motor rotation will stop.
 ## Components used
 * Stm32f407
 * Temperature and humidity sensor.
 * Breadboard
 * Connecting Wires
 * Resistors
+* LEDS
+* Stepper Motor
+* ULN2003 Driver
 ## SWOT ANALYSIS:
 * Strength:
   * It will automatically detect the temperature.
+  * Easily Applicable.
 * Weakness:
   * Failure of Sensors
   * In case of low power
@@ -31,5 +35,14 @@
 * It will work automatically.
 # HIGH LEVEL REQUIREMENTS:
 |HLR|DESCRIPTION|STATUS|
-|---|----|----|
-|HLR 01|Sensor|Done|
+|---|---|---|
+|HLR 01| Temperature Sensor|Done|
+|HLR 02|LEDS Glowing|Done|
+|HLR 03Motor Working|Done|
+# LOW LEVEL REQUIREMENTS
+|TEST ID|DESCRIPTION|HLR ID|STATUS|
+|---|---|----|----|
+|LLR 01|Blue Led|HLR 01 & HLR 02|Done|
+|LLR 02|Green Led|HLR 01 & HLR 02|Done|
+|LLR 03|Red Led|HLR 01 & HLR 02|Done|
+|LLR 04|Motor |HLR 01 & HLR 03|Done|

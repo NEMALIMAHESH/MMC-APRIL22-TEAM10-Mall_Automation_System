@@ -169,7 +169,3 @@ They can be used to guide people toward main exits or special exhibits and may b
 
 
 
-# 12)  Conclusion :- 
-
-Implemented escalator which is staircase,  carries people between floors of a building or structure. 
-It consists of a motor-driven chain of individually linked steps on a track which cycle on a pair of tracks which keep them horizontal.

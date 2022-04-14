@@ -6,5 +6,6 @@ In this Module we are using some features related to Mall Automation System.
 * LCD Display
 * DHT11 Sensor
 * leds
-* ldr sensor
 * potentiometer
+* Stepper Motor
+* ULN2003driver
