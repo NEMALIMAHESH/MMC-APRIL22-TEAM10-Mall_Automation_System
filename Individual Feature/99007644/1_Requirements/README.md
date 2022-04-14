@@ -1,4 +1,4 @@
-# Home Automation
+# Mall Automation
 
 ## Feature: Automatic Lights Control Switch
 
